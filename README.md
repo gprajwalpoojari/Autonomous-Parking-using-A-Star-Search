@@ -1,6 +1,6 @@
 # Autonomous Parking using A* Search
 
-## Result
+## Demo
 
 ![akerman](https://github.com/gprajwalpoojari/Motion_Planning_for_Autonomous_Parking/assets/53962958/3605d74f-5ce1-4b79-90fb-0fdbd435d122)
 

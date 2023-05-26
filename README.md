@@ -1,5 +1,10 @@
 # Motion_Planning_for_Autonomous_Parking
 
+## Result
+
+![akerman](https://github.com/gprajwalpoojari/Motion_Planning_for_Autonomous_Parking/assets/53962958/3605d74f-5ce1-4b79-90fb-0fdbd435d122)
+
+
 ## The Parking Problem
 A common path planning problem for autonomous vehicles involves maneuvering in tight spaces and cluttered environments, particularly while parking. To address these issues, non-holonomic constraints of the vehicles must be taken into consideration. At the same time, collision checking algorithm must also be deployed to make sure the vehicle path is collision-free. Considering the above constraints, this project implements path planning for the following types of vehicles:
 * A DiWheel Robot

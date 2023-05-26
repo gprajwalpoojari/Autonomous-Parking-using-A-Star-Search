@@ -1,4 +1,4 @@
-# Motion_Planning_for_Autonomous_Parking
+# Autonomous Parking using A* Search
 
 ## Result
 
